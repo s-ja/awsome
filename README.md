@@ -2,6 +2,3 @@
 
 # Awsome! Class 수업
 ---
-
-
-# awsome
